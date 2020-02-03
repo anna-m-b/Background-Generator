@@ -1,0 +1,104 @@
+body {
+
+	text-align: center;
+	background: linear-gradient(to right, pink, yellow);
+}
+
+
+h1 {
+
+	font: 800 3em 'Raleway', sans-serif;
+	color: #424242;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	width: 100%;
+	padding-bottom: 3rem;
+}
+
+
+h2 {
+
+	font: 300 1.5em 'Raleway', sans-serif;
+	color: #424242;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	width: 100%;	
+
+}
+
+h3 {
+
+	font: 500 1em 'Raleway', sans-serif;
+	color: #424242;
+	text-align: center;
+	text-transform: none;
+	letter-spacing: 0.01em;
+
+}
+
+#color1 {
+
+	height: 2rem;
+	padding: 0, 1;
+	margin: .3rem;
+	border-radius: 15%;
+	border-color: #424242;
+}
+
+#color1:hover {
+	cursor: zoom-in;
+}
+
+#color2 {
+
+	height: 2rem;
+	padding: 0, 1;
+	margin: .3rem;
+	border-radius: 15%;
+	border-color: #424242;
+
+}
+
+#color2:hover {
+	cursor: zoom-in;
+}
+
+#random {
+	background-color: #424242;
+	height: 2em;
+	padding: 15px 20px;
+	margin: 60px 40px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;
+	color: white;
+	text-align: center;		
+	line-height: .15em;
+	font-weight: 500;
+	letter-spacing: 0.25em;
+	border: none;
+	border-radius: 25px;
+	
+}
+
+#random:visited {
+	border-style: none;
+
+	
+}
+
+#random:hover {
+	cursor: pointer;
+	background-color: #fcc1cb;
+
+}
+
+#random:active {
+	background-color: #FFF8A4;
+}
+
+
+
+
+
